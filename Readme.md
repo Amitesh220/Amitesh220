@@ -1,5 +1,5 @@
 
-# Amitesh Mishra - Software Developer
+# Amitesh Mishra 
 
 ## About Me
 
