@@ -1,93 +1,76 @@
-# 🚀 Amitesh Mishra  
+# 🚀 Amitesh Mishra
 
-## 👨‍💻 About Me  
-
+## 👨‍💻 About Me
 Hello! I'm **Amitesh Mishra**, a passionate **Software Developer** specializing in **React** and **MERN stack development**.  
 With a solid foundation in **C++ and Data Structures & Algorithms (DSA)**, I'm currently expanding my expertise in **DevOps** to enhance my software engineering capabilities.
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
 ### 🔹 Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
+<span> 
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+</span>
 
 ### 🔹 Frameworks & Libraries
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-</div>
+<span> 
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/> 
+</span>
 
 ### 🔹 Tools & Platforms
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</div>
+<span> 
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> *(Learning)* 
+</span>
 
 ### 🔹 DevOps Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-</div>
+<span> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> 
+</span>
 
 ### 🔹 Concepts
-✅ **RESTful APIs**  
-✅ **Authentication & Authorization**  
-✅ **Agile Methodologies**  
-✅ **CI/CD Pipelines**
+- ✅ RESTful APIs
+- ✅ Authentication & Authorization
+- ✅ Agile Methodologies
+- ✅ CI/CD Pipelines
 
 ---
 
-## 📌 Projects  
+## 📌 Projects
 
-- **🛍️ Amazon Clone** – A **React-based** e-commerce platform mimicking **Amazon's UI/UX**.  
-- **📸 Facial Recognition Attendance App** – Implemented with **Python, OpenCV, and Flask**.  
-- **🌐 Personal Portfolio** – Showcasing my projects and skills in **web development**.
+- 🛍️ **Amazon Clone** – A **React-based** e-commerce platform mimicking **Amazon's UI/UX**.
+- 📸 **Facial Recognition Attendance App** – Implemented with **Python, OpenCV, and Flask**.
+- 🌐 **Personal Portfolio** – Showcasing my projects and skills in **web development**.
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
 🎓 **Bachelor of Technology (B.Tech)** in **Electronics and Communication Engineering**  
-🏛 **Gautam Buddha University**  
+🏛 **Gautam Buddha University**
 
 ---
 
-## 📬 Contact Me  
+## 📬 Contact Me
 
 📧 **Email:** [amiteshmishra2202@gmail.com](mailto:amiteshmishra2202@gmail.com)  
-🔗 **LinkedIn:** [Amitesh Mishra](https://www.linkedin.com/in/amitesh-mishra-19bb5a26b)  
+🔗 **LinkedIn:** [Amitesh Mishra](https://www.linkedin.com/in/amitesh-mishra-19bb5a26b)
 
 ---
 
