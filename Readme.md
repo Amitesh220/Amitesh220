@@ -66,7 +66,9 @@ With a solid foundation in **C++ and Data Structures & Algorithms (DSA)**, I'm c
 🏛 **Gautam Buddha University**
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amitesh220&theme=dark)](https://git.io/streak-stats)
 
+---
 ## 📬 Contact Me
 
 📧 **Email:** [amiteshmishra2202@gmail.com](mailto:amiteshmishra2202@gmail.com)  
